@@ -1,0 +1,21 @@
+# 调研笔记与开发中间产物（本地留档，不入库）
+RESEARCH.md
+NUMBERS.md
+STORY.md
+PRD-MAP.md
+experiment-log/
+shots/
+audit.err
+.auto/
+tools/apply_*
+tools/patch-*
+tools/monsters-block.txt
+tools/_*
+node_modules/
+
+# 截图只留 README 引用的四张官方图
+screenshots/*
+!screenshots/title.png
+!screenshots/farm-day.png
+!screenshots/battle-night.png
+!screenshots/quests.png
